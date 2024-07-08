@@ -23,6 +23,13 @@ For ease of use, pre-compiled binaries are available for Windows and macOS:
 Some systems may not allow you to run executables downloaded from the web. In this case, you can download a zipped 
 folder containing both executables [here](https://github.com/Jack-Coutts/FastaDuplicates/releases/download/v1.0.0/binary_executables.zip).
 
+Alternatively, on a Mac you may need to use the terminal, navigate tot the directory containing `fasta_duplicate_finder_mac` and type the following command:
+
+```zsh
+chmod +x fasta_duplicate_finder_mach
+```
+
+
 ### Usage
 
 1. Run the executable:
