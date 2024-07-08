@@ -17,8 +17,8 @@ This tool processes FASTA files to identify and report duplicate sequences. Crea
 
 For ease of use, pre-compiled binaries are available for Windows and macOS:
 
-- [Download for Windows](https://github.com/yourusername/your-repo-name/releases/download/v1.0.0/fasta_duplicate_finder.exe)
-- [Download for macOS](https://github.com/yourusername/your-repo-name/releases/download/v1.0.0/fasta_duplicate_finder)
+- [Download for Windows](https://github.com/Jack-Coutts/FastaDuplicates/releases/download/v1.0.0/fasta_duplicate_finder_windows.exe)
+- [Download for macOS](https://github.com/Jack-Coutts/FastaDuplicates/releases/download/v1.0.0/fasta_duplicate_finder_mac)
 
 ### Usage
 
