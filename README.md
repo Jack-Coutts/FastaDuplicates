@@ -21,7 +21,7 @@ For ease of use, pre-compiled binaries are available for Windows and macOS:
 - [Download for macOS](https://github.com/Jack-Coutts/FastaDuplicates/releases/download/v1.0.0/fasta_duplicate_finder_mac)
 
 Some systems may not allow you to run executables downloaded from the web. In this case, you can download a zipped 
-folder containing both executables [here](https://github.com/Jack-Coutts/FastaDuplicates/main/binary%20executables.zip).
+folder containing both executables [here](binary%20executables.zip).
 
 ### Usage
 
